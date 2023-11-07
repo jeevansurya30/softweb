@@ -717,13 +717,17 @@ home.html
 ```
 ## OUTPUT:
  # HOME:
- ![Alt text](<home output.png>)
+ ![image](https://github.com/jeevansurya30/softweb/assets/129417865/71ebfa17-5c7d-4539-83e8-88a4bc1b767b)
+
  # PEOPLE:
- ![Alt text](<people output.png>)
+ ![image](https://github.com/jeevansurya30/softweb/assets/129417865/8439094b-330c-4bc4-91ed-4eb3aa631355)
+
  # PRODUCT:
- ![Alt text](<product output.png>)
+ ![image](https://github.com/jeevansurya30/softweb/assets/129417865/53dca0b5-549f-4a94-a025-9eed11207abb)
+
  # CONTACT:
- ![Alt text](<contact output.png>)
+ ![image](https://github.com/jeevansurya30/softweb/assets/129417865/6fc3ef87-9a62-42bc-bef7-30944f4489d7)
+
 
 
 ## RESULT:
